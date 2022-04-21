@@ -1,10 +1,10 @@
-# partyhour
+## partyhour
 Party Management App
 
-# Technical Stack :
+### Technical Stack :
 React Native Web
 ....
 
-# Contributors
+### Contributors
 Alexsouye (maintainer & co founder)
 Poojam11 (Ui / UX & co founder)
