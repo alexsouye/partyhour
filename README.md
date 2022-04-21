@@ -2,9 +2,9 @@
 Party Management App
 
 ### Technical Stack :
-React Native Web
+React Native Web\
 ....
 
 ### Contributors
-Alexsouye (maintainer & co founder)
+Alexsouye (maintainer & co founder)\
 Poojam11 (Ui / UX & co founder)
