@@ -1,4 +1,4 @@
-## partyhour
+## PartyHour
 Party Management App
 
 ### Technical Stack :
