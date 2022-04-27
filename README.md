@@ -2,7 +2,7 @@
 Party Management App
 
 ### Technical Stack :
-React Native Web\
+React Native
 ....
 
 ### Contributors
