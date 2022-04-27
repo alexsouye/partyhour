@@ -1,0 +1,6 @@
+module Pods_PartyHour {
+  umbrella header "Pods-PartyHour-umbrella.h"
+
+  export *
+  module * { export * }
+}

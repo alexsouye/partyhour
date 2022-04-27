@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PartyHour.iml" filepath="$PROJECT_DIR$/.idea/modules/PartyHour.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PartyHour.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PartyHour.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1296385381/PartyHour.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/-1296385381/PartyHour.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/484384286/PartyHour.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/484384286/PartyHour.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/666484381/PartyHour.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/666484381/PartyHour.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1012138260/PartyHour.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-1012138260/PartyHour.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-45560722/PartyHour.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/-45560722/PartyHour.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1752230657/PartyHour.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/1752230657/PartyHour.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/540986479/PartyHour.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/540986479/PartyHour.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1505349286/PartyHour.expo-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/1505349286/PartyHour.expo-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1402320565/PartyHour.expo-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/-1402320565/PartyHour.expo-localization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1070365911/PartyHour.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1070365911/PartyHour.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1829088684/PartyHour.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1829088684/PartyHour.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/857891527/PartyHour.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/857891527/PartyHour.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1698702943/PartyHour.react-native-keychain.iml" filepath="$PROJECT_DIR$/.idea/modules/-1698702943/PartyHour.react-native-keychain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/451405168/PartyHour.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/451405168/PartyHour.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1236381304/PartyHour.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1236381304/PartyHour.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>

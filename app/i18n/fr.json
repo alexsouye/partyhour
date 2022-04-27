@@ -1,0 +1,44 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Annuler",
+    "back": "Retour"
+  },
+  "errors": {
+    "invalidEmail": "Adresse email invalide"
+  },
+  "welcomeScreen": {
+    "poweredBy": "Propulsé par Ignite",
+    "newApp": "Votre nouvelle application,",
+    "almost": "Presque",
+    "readyForLaunch": "Prêt au lancement",
+    "continue": "Continuer",
+    "descriptionLine1": "Ce n'est probablement pas ce à quoi votre application va ressembler. A moins que votre designer ne vous ait remis cet écran et, dans ce cas, félicitations ! Vous êtes prêt pour le lancement.",
+    "descriptionLine2": "Pour tous les autres, c'est ici que vous verrez un aperçu en direct de votre application entièrement fonctionnelle utilisant Ignite."
+  },
+  "demoScreen": {
+    "howTo": "PartyHour",
+    "title": "qu'y a-t-il dans cette Stack ?",
+    "tagLine": "Félicitations, vous avez ici un modèle d'application React Native très avancé. Profitez de ce modèle !",
+    "reactotron": "Demo Reactotron",
+    "demoList": "Liste de Démo",
+    "androidReactotronHint": "Si cela ne fonctionne pas, assurez-vous que l'application de bureau Reactotron est en cours d'exécution, exécutez adb reverse tcp:9090 tcp:9090 depuis votre terminal, et rechargez l'application.",
+    "iosReactotronHint": "Si cela ne fonctionne pas, assurez-vous que l'application de bureau Reactotron est en cours d'exécution et rechargez l'application.",
+    "macosReactotronHint": "Si cela ne fonctionne pas, assurez-vous que l'application de bureau Reactotron est en cours d'exécution et rechargez l'application.",
+    "webReactotronHint": "Si cela ne fonctionne pas, assurez-vous que l'application de bureau Reactotron est en cours d'exécution et rechargez l'application.",
+    "windowsReactotronHint": "Si cela ne fonctionne pas, assurez-vous que l'application de bureau Reactotron est en cours d'exécution et rechargez l'application."
+  },
+  "demoListScreen": {
+    "title": "Liste de Démo"
+  },
+  "errorScreen": {
+    "title": "Il y a eu une erreur",
+    "friendlySubtitle": "C'est l'écran que vos utilisateurs verront en production quand une erreur est lancée. Vous voudrez personnaliser ce message (situé dans `app/i18n/en.json`) et probablement aussi la mise en page (`app/screens/error`). Si vous voulez supprimer entièrement ce message, vérifiez dans `app/app.tsx` la présence du composant <ErrorBoundary>.",
+    "traceTitle": "Erreur depuis la page %{name}",
+    "reset": "réinitialiser l'application"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}
